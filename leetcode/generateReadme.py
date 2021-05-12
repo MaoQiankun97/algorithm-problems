@@ -31,11 +31,13 @@ problems_without_level_list.sort(key=lambda i: i['question_id'])
 print(problems_without_level_list)
 
 # 读取答案文件
-codes = listdir('./codes/')
-# 将答案文件转为 {文件名: 文件后缀}
+code_dirs = listdir('./codes/')
+# 将答案文件转为 {文件名: 文件相对路径}
 codes_dict = {}
-for code in codes:
-    codes_dict[code.split('.')[0]] = code.split('.')[1]
+for code_dir in code_dirs:
+    codes = listdir('./codes/' + code_dir)
+    for code in codes:
+        codes_dict[code.split('.')[0]] = './codes/' + code_dir + '/' +code
 
 # 生成md
 base_url = 'https://leetcode-cn.com/problems/'
@@ -45,14 +47,14 @@ readme.write('# LeetCode\n\n')
 
 for problems_without_level in problems_without_level_list:
     if codes_dict.__contains__(problems_without_level['frontend_question_id']):
-        readme.write('{0}. [{1} - {2}]({3}) : [code](./codes/{4})\n'.format(problems_without_level['question_id'],
+        readme.write('{0}. [{1} - {2}]({3}) : [code]({4})\n'.format(problems_without_level['question_id'],
                                                            problems_without_level['frontend_question_id'],
                                                            problems_without_level['question__title'],
                                                            base_url + problems_without_level['question__title_slug'],
-                                                           problems_without_level['frontend_question_id'] + '.' + codes_dict[problems_without_level['frontend_question_id']]))
+                                                           codes_dict[problems_without_level['frontend_question_id']]))
     if codes_dict.__contains__(problems_without_level['question__title_slug']):
-        readme.write('{0}. [{1} - {2}]({3}) : [code](./codes/{4})\n'.format(problems_without_level['question_id'],
+        readme.write('{0}. [{1} - {2}]({3}) : [code](/{4})\n'.format(problems_without_level['question_id'],
                                                            problems_without_level['frontend_question_id'],
                                                            problems_without_level['question__title'],
                                                            base_url + problems_without_level['question__title_slug'],
-                                                           problems_without_level['question__title_slug'] + '.' + codes_dict[problems_without_level['question__title_slug']]))
+                                                           codes_dict[problems_without_level['question__title_slug']]))
