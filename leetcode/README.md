@@ -151,6 +151,7 @@
 530. [530 - Minimum Absolute Difference in BST](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst) : [code](/./codes/cpp/minimum-absolute-difference-in-bst.c)
 643. [643 - Maximum Average Subarray I](https://leetcode-cn.com/problems/maximum-average-subarray-i) : [code](/./codes/cpp/maximum-average-subarray-i.cpp)
 686. [686 - Repeated String Match](https://leetcode-cn.com/problems/repeated-string-match) : [code](/./codes/cpp/repeated-string-match.cpp)
+692. [692 - Top K Frequent Words](https://leetcode-cn.com/problems/top-k-frequent-words) : [code](./codes/py/692.py)
 712. [712 - Minimum ASCII Delete Sum for Two Strings](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings) : [code](/./codes/cpp/minimum-ascii-delete-sum-for-two-strings.cpp)
 714. [714 - Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) : [code](/./codes/cpp/best-time-to-buy-and-sell-stock-with-transaction-fee.cpp)
 755. [754 - Reach a Number](https://leetcode-cn.com/problems/reach-a-number) : [code](/./codes/cpp/reach-a-number.cpp)
