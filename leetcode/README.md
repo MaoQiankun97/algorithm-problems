@@ -204,6 +204,7 @@
 1700. [1578 - Minimum Deletion Cost to Avoid Repeating Letters](https://leetcode-cn.com/problems/minimum-deletion-cost-to-avoid-repeating-letters) : [code](./codes/cpp/1578.cpp)
 1705. [1583 - Count Unhappy Friends](https://leetcode-cn.com/problems/count-unhappy-friends) : [code](./codes/py/1583.py)
 1860. [1738 - Find Kth Largest XOR Coordinate Value](https://leetcode-cn.com/problems/find-kth-largest-xor-coordinate-value) : [code](./codes/py/1738.py)
+1915. [1790 - Check if One String Swap Can Make Strings Equal](https://leetcode-cn.com/problems/check-if-one-string-swap-can-make-strings-equal) : [code](./codes/py/1790.py)
 100355. [面试题 16.15 - Master Mind LCCI](https://leetcode-cn.com/problems/master-mind-lcci) : [code](/./codes/py/master-mind-lcci.py)
 1000003. [面试题 16.17 - Contiguous Sequence LCCI](https://leetcode-cn.com/problems/contiguous-sequence-lcci) : [code](/./codes/cpp/contiguous-sequence-lcci.cpp)
 1000029. [面试题 17.21 - Volume of Histogram LCCI](https://leetcode-cn.com/problems/volume-of-histogram-lcci) : [code](/./codes/py/volume-of-histogram-lcci.py)
