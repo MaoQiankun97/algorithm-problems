@@ -181,6 +181,7 @@
 1138. [1052 - Grumpy Bookstore Owner](https://leetcode-cn.com/problems/grumpy-bookstore-owner) : [code](/./codes/cpp/grumpy-bookstore-owner.cpp)
 1242. [1314 - Matrix Block Sum](https://leetcode-cn.com/problems/matrix-block-sum) : [code](/./codes/cpp/matrix-block-sum.cpp)
 1250. [1143 - Longest Common Subsequence](https://leetcode-cn.com/problems/longest-common-subsequence) : [code](/./codes/cpp/longest-common-subsequence.cpp)
+1298. [1190 - Reverse Substrings Between Each Pair of Parentheses](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses) : [code](./codes/py/1190.py)
 1299. [1191 - K-Concatenation Maximum Sum](https://leetcode-cn.com/problems/k-concatenation-maximum-sum) : [code](./codes/py/1191.py)
 1304. [1405 - Longest Happy String](https://leetcode-cn.com/problems/longest-happy-string) : [code](./codes/cpp/1405.cpp)
 1325. [1514 - Path with Maximum Probability](https://leetcode-cn.com/problems/path-with-maximum-probability) : [code](./codes/cpp/1514.cpp)
