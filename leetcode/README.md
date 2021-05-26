@@ -196,6 +196,7 @@
 1519. [1403 - Minimum Subsequence in Non-Increasing Order](https://leetcode-cn.com/problems/minimum-subsequence-in-non-increasing-order) : [code](./codes/cpp/1403.cpp)
 1553. [1442 - Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor) : [code](./codes/py/1442.py)
 1557. [1461 - Check If a String Contains All Binary Codes of Size K](https://leetcode-cn.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k) : [code](/./codes/cpp/check-if-a-string-contains-all-binary-codes-of-size-k.cpp)
+1566. [1455 - Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode-cn.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) : [code](./codes/py/1455.py)
 1620. [1497 - Check If Array Pairs Are Divisible by k](https://leetcode-cn.com/problems/check-if-array-pairs-are-divisible-by-k) : [code](./codes/cpp/1497.cpp)
 1636. [1513 - Number of Substrings With Only 1s](https://leetcode-cn.com/problems/number-of-substrings-with-only-1s) : [code](./codes/py/1513.py)
 1637. [1531 - String Compression II](https://leetcode-cn.com/problems/string-compression-ii) : [code](/./codes/cpp/string-compression-ii.cpp)
