@@ -147,6 +147,7 @@
 423. [423 - Reconstruct Original Digits from English](https://leetcode-cn.com/problems/reconstruct-original-digits-from-english) : [code](/./codes/cpp/reconstruct-original-digits-from-english.cpp)
 452. [452 - Minimum Number of Arrows to Burst Balloons](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons) : [code](./codes/cpp/452.cpp)
 455. [455 - Assign Cookies](https://leetcode-cn.com/problems/assign-cookies) : [code](./codes/cpp/455.cpp)
+461. [461 - Hamming Distance](https://leetcode-cn.com/problems/hamming-distance) : [code](./codes/py/461.py)
 482. [482 - License Key Formatting](https://leetcode-cn.com/problems/license-key-formatting) : [code](./codes/py/482.py)
 508. [508 - Most Frequent Subtree Sum](https://leetcode-cn.com/problems/most-frequent-subtree-sum) : [code](/./codes/cpp/most-frequent-subtree-sum.cpp)
 517. [517 - Super Washing Machines](https://leetcode-cn.com/problems/super-washing-machines) : [code](/./codes/cpp/super-washing-machines.cpp)
