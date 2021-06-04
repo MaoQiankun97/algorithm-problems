@@ -132,6 +132,7 @@
 213. [213 - House Robber II](https://leetcode-cn.com/problems/house-robber-ii) : [code](./codes/cpp/213.cpp)
 219. [219 - Contains Duplicate II](https://leetcode-cn.com/problems/contains-duplicate-ii) : [code](./codes/py/219.py)
 222. [222 - Count Complete Tree Nodes](https://leetcode-cn.com/problems/count-complete-tree-nodes) : [code](/./codes/cpp/count-complete-tree-nodes.cpp)
+263. [263 - Ugly Number](https://leetcode-cn.com/problems/ugly-number) : [code](./codes/py/263.py)
 279. [279 - Perfect Squares](https://leetcode-cn.com/problems/perfect-squares) : [code](/./codes/cpp/perfect-squares.cpp)
 300. [300 - Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence) : [code](./codes/cpp/300.cpp)
 303. [303 - Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable) : [code](./codes/cpp/303.cpp)
