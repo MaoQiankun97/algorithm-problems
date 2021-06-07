@@ -161,6 +161,7 @@
 517. [517 - Super Washing Machines](https://leetcode-cn.com/problems/super-washing-machines) : [code](/./codes/cpp/super-washing-machines.cpp)
 523. [523 - Continuous Subarray Sum](https://leetcode-cn.com/problems/continuous-subarray-sum) : [code](./codes/py/523.py)
 530. [530 - Minimum Absolute Difference in BST](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst) : [code](/./codes/cpp/minimum-absolute-difference-in-bst.c)
+633. [633 - Sum of Square Numbers](https://leetcode-cn.com/problems/sum-of-square-numbers) : [code](./codes/py/633.py)
 643. [643 - Maximum Average Subarray I](https://leetcode-cn.com/problems/maximum-average-subarray-i) : [code](/./codes/cpp/maximum-average-subarray-i.cpp)
 664. [664 - Strange Printer](https://leetcode-cn.com/problems/strange-printer) : [code](./codes/py/664.py)
 686. [686 - Repeated String Match](https://leetcode-cn.com/problems/repeated-string-match) : [code](/./codes/cpp/repeated-string-match.cpp)
