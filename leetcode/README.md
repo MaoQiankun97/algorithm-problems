@@ -179,6 +179,7 @@
 890. [860 - Lemonade Change](https://leetcode-cn.com/problems/lemonade-change) : [code](./codes/cpp/860.cpp)
 906. [874 - Walking Robot Simulation](https://leetcode-cn.com/problems/walking-robot-simulation) : [code](./codes/cpp/874.cpp)
 910. [878 - Nth Magical Number](https://leetcode-cn.com/problems/nth-magical-number) : [code](./codes/cpp/878.cpp)
+924. [888 - Fair Candy Swap](https://leetcode-cn.com/problems/fair-candy-swap) : [code](./codes/py/888.py)
 940. [904 - Fruit Into Baskets](https://leetcode-cn.com/problems/fruit-into-baskets) : [code](/./codes/cpp/fruit-into-baskets.cpp)
 981. [944 - Delete Columns to Make Sorted](https://leetcode-cn.com/problems/delete-columns-to-make-sorted) : [code](./codes/cpp/944.cpp)
 987. [950 - Reveal Cards In Increasing Order](https://leetcode-cn.com/problems/reveal-cards-in-increasing-order) : [code](/./codes/cpp/reveal-cards-in-increasing-order.cpp)
