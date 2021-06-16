@@ -173,6 +173,7 @@
 776. [590 - N-ary Tree Postorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal) : [code](./codes/cpp/590.cpp)
 783. [700 - Search in a Binary Search Tree](https://leetcode-cn.com/problems/search-in-a-binary-search-tree) : [code](/./codes/cpp/search-in-a-binary-search-tree.cpp)
 789. [703 - Kth Largest Element in a Stream](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream) : [code](/./codes/cpp/kth-largest-element-in-a-stream.cpp)
+797. [781 - Rabbits in Forest](https://leetcode-cn.com/problems/rabbits-in-forest) : [code](./codes/py/781.py)
 810. [794 - Valid Tic-Tac-Toe State](https://leetcode-cn.com/problems/valid-tic-tac-toe-state) : [code](./codes/py/794.py)
 857. [830 - Positions of Large Groups](https://leetcode-cn.com/problems/positions-of-large-groups) : [code](./codes/py/830.py)
 872. [842 - Split Array into Fibonacci Sequence](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence) : [code](/./codes/cpp/split-array-into-fibonacci-sequence.cpp)
